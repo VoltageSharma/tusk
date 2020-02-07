@@ -6,3 +6,5 @@ pizza
 pasta
 kheer
 french fry
+
+current version
