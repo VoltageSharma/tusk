@@ -5,3 +5,4 @@ Welcome to Voltage Kitchen
 pizza
 pasta
 kheer
+french fry
